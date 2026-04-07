@@ -11,6 +11,6 @@ def quicksort(arr):
 
 
 # Array de prueba
-array = [38, 3, 1, 17, 2, 27, 9, 82, 5, 45]
+array = [3,1,5,3,10,13,9,11,1,21,4]
 print("Original:", array)
 print("Ordenado:", quicksort(array))
